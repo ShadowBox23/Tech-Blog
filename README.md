@@ -18,7 +18,7 @@
   Install all the needed dependencies by running "npm i" in the terminal 
 
   ## Usage
-  Visit the heroku link: 
+  Visit the heroku link: https://blooming-hamlet-20813.herokuapp.com/
 
   ## License
   This application has the MIT License.
